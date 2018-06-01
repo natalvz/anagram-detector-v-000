@@ -13,4 +13,6 @@ class Anagram
       if @word.downcase.split('').sort == word.downcase.split('').sort
         matches << word
       end
+      
+  end
 end
