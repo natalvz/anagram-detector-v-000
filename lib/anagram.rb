@@ -4,6 +4,7 @@ class Anagram
   @@anagrams = []
   def initialize(word)
     @word = word
-    word.match.w%(@@anagrams)
   end
+  
+  def 
 end
