@@ -9,5 +9,6 @@ class Anagram
   def match(array)
     matches = []
     
+    words.each do |
   end
 end
